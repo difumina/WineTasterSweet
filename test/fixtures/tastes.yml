@@ -1,0 +1,87 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  wine: MyString
+  string: MyString
+  taster: MyString
+  tasterId: MyString
+  tasterName: MyString
+  brightness: MyString
+  acididty: MyString
+  Color1: MyString
+  Color2: MyString
+  Color3: MyString
+  Color4: MyString
+  Color5: MyString
+  primaryAroma1: MyString
+  primaryAroma2: MyString
+  : MyString
+  primaryAroma3: MyString
+  primaryAroma4: MyString
+  primaryAroma5: MyString
+  secondaryAroma1: MyString
+  secondaryAroma2: MyString
+  secondaryAroma3: MyString
+  secondaryAroma4: MyString
+  secondaryAroma5: MyString
+  fruit1: MyString
+  fruit2: MyString
+  fruit3: MyString
+  fruit4: MyString
+  fruit5: MyString
+  goToMouth: MyString
+  backNoise: MyString
+  OpenOrNormal: MyString
+  compareOpenNormal: MyString
+  rate1: 1
+  rate2: 1
+  rate3: 1
+  rate4: 1
+  rate5: 1
+  rate6: 1
+  totalRate: 1
+  created_at: 2013-12-19 09:28:09
+  updated_at: 2013-12-19 09:28:09
+
+two:
+  wine: MyString
+  string: MyString
+  taster: MyString
+  tasterId: MyString
+  tasterName: MyString
+  brightness: MyString
+  acididty: MyString
+  Color1: MyString
+  Color2: MyString
+  Color3: MyString
+  Color4: MyString
+  Color5: MyString
+  primaryAroma1: MyString
+  primaryAroma2: MyString
+  : MyString
+  primaryAroma3: MyString
+  primaryAroma4: MyString
+  primaryAroma5: MyString
+  secondaryAroma1: MyString
+  secondaryAroma2: MyString
+  secondaryAroma3: MyString
+  secondaryAroma4: MyString
+  secondaryAroma5: MyString
+  fruit1: MyString
+  fruit2: MyString
+  fruit3: MyString
+  fruit4: MyString
+  fruit5: MyString
+  goToMouth: MyString
+  backNoise: MyString
+  OpenOrNormal: MyString
+  compareOpenNormal: MyString
+  rate1: 1
+  rate2: 1
+  rate3: 1
+  rate4: 1
+  rate5: 1
+  rate6: 1
+  totalRate: 1
+  created_at: 2013-12-19 09:28:09
+  updated_at: 2013-12-19 09:28:09

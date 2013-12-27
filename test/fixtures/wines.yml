@@ -1,0 +1,57 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  wine: MyString
+  origin: MyString
+  description: MyText
+  year: MyString
+  cooperative: MyString
+  AlcoholVolume: 1
+  color: MyString
+  brightness: MyString
+  acidity: MyString
+  sugar: MyString
+  MaxOld: 1
+  AgingProcesCode: MyString
+  originDenomination: MyString
+  grape1: MyString
+  grape2: MyString
+  grape3: MyString
+  grape4: MyString
+  grape5: MyString
+  referenceTechnicalWine: MyString
+  referenceMust: MyString
+  liters: 1
+  barrels: 1
+  bottles: 1
+  salesFormat: MyString
+  created_at: 2013-12-19 06:38:30
+  updated_at: 2013-12-19 06:38:30
+
+two:
+  wine: MyString
+  origin: MyString
+  description: MyText
+  year: MyString
+  cooperative: MyString
+  AlcoholVolume: 1
+  color: MyString
+  brightness: MyString
+  acidity: MyString
+  sugar: MyString
+  MaxOld: 1
+  AgingProcesCode: MyString
+  originDenomination: MyString
+  grape1: MyString
+  grape2: MyString
+  grape3: MyString
+  grape4: MyString
+  grape5: MyString
+  referenceTechnicalWine: MyString
+  referenceMust: MyString
+  liters: 1
+  barrels: 1
+  bottles: 1
+  salesFormat: MyString
+  created_at: 2013-12-19 06:38:30
+  updated_at: 2013-12-19 06:38:30
